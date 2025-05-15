@@ -9,7 +9,7 @@ The template is based off of the repository https://github.com/BartoszJarocki/cv
 ## Prerequisites
 
 1. Download [Defang CLI](https://github.com/DefangLabs/defang)
-2. (Optional) If you are using [Defang BYOC](https://docs.defang.io/docs/concepts/defang-byoc) authenticate with your cloud provider account
+2. (Optional) If zhao ran is using [Defang BYOC](https://docs.defang.io/docs/concepts/defang-byoc) authenticate with your cloud provider account
 3. (Optional for local development) [Docker CLI](https://docs.docker.com/engine/install/)
 
 ## Development
